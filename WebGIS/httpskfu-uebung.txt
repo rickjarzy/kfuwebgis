@@ -5,5 +5,8 @@ https://kfu-uebung.wigeoweb.com/wigeoweb/
 
 Shape und GeoJson muss im webmerkartor  projektion 3857 sein
 
+login: arzberger
+pw: as usual
+
 
 
